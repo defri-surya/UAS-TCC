@@ -1,4 +1,4 @@
-# Praktikum Pertemuan 14 - Kubernetes For Beginners
+# Materi 6 - Kubernetes For Beginners
 
 Melakukan login ke akun Docker Hub supaya dapat menampilkan terminal
 

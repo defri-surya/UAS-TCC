@@ -1,4 +1,4 @@
-# Praktikum TCC Pertemuan 11 - Application Containerization and Microservice Orchestration
+# Materi 3 - Application Containerization and Microservice Orchestration
 
 Melakukan login ke akun Docker Hub untuk menampilkan terminal
 
